@@ -14,7 +14,7 @@ The `MicroengineAnimator` class is located in the file `samples/animation/microe
 
 ## View the Sample
 
-Start the [Quickstart server](https://docs.techsoft3d.com/communicator/latest/build/overview/getting-started.html) and visit [http://localhost:11180/samples/animation/index.html?viewer=CSR&instance=microengine](http://localhost:11180/samples/animation/index.html?viewer=CSR&instance=microengine).
+Start the [Quickstart server](https://docs.techsoft3d.com/communicator/latest/build/overview/getting-started.html) and visit [http://localhost:11180/hc_quickstart_samples/animation/index.html?viewer=CSR&instance=microengine](http://localhost:11180/hc_quickstart_samples/animation/index.html?viewer=CSR&instance=microengine).
 
 Press the different "Play Animation" buttons to see the HOOPS Communicator Animation API in action!
 
